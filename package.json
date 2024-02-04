@@ -4,7 +4,8 @@
   "description": "Comp2156 Lab Exercisen",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\""
+    "test": "echo \"Error: no test specified\"",
+    "ci": "echo \"No ci configured\""
   },
   "author": "Kourosh Ariafar",
   "license": "ISC",
