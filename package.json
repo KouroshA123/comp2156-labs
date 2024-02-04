@@ -1,0 +1,12 @@
+{
+  "name": "comp2156",
+  "version": "1.0.0",
+  "description": "Comp2156 Lab Exercisen",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "author": "Kourosh Ariafar",
+  "license": "ISC",
+  "keywords": []
+}
